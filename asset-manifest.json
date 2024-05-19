@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/MarvelApp/static/css/main.d405f783.css",
+    "main.js": "/MarvelApp/static/js/main.6557da84.js",
+    "static/css/604.30e4257b.chunk.css": "/MarvelApp/static/css/604.30e4257b.chunk.css",
+    "static/js/604.b88ef0e9.chunk.js": "/MarvelApp/static/js/604.b88ef0e9.chunk.js",
+    "static/css/561.ea94e787.chunk.css": "/MarvelApp/static/css/561.ea94e787.chunk.css",
+    "static/js/561.b68bf1b5.chunk.js": "/MarvelApp/static/js/561.b68bf1b5.chunk.js",
+    "static/css/108.c7ad1845.chunk.css": "/MarvelApp/static/css/108.c7ad1845.chunk.css",
+    "static/js/108.215caf6f.chunk.js": "/MarvelApp/static/js/108.215caf6f.chunk.js",
+    "static/js/607.d8aba8fd.chunk.js": "/MarvelApp/static/js/607.d8aba8fd.chunk.js",
+    "static/media/vision.png": "/MarvelApp/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/MarvelApp/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/MarvelApp/static/media/Avengers.4065c8f9c94e3d8b039a.png",
+    "static/media/error.gif": "/MarvelApp/static/media/error.42dec745e23407a484f8.gif",
+    "static/media/Avengers_logo.png": "/MarvelApp/static/media/Avengers_logo.9eaf219344d83362e830.png",
+    "index.html": "/MarvelApp/index.html",
+    "main.d405f783.css.map": "/MarvelApp/static/css/main.d405f783.css.map",
+    "main.6557da84.js.map": "/MarvelApp/static/js/main.6557da84.js.map",
+    "604.30e4257b.chunk.css.map": "/MarvelApp/static/css/604.30e4257b.chunk.css.map",
+    "604.b88ef0e9.chunk.js.map": "/MarvelApp/static/js/604.b88ef0e9.chunk.js.map",
+    "561.ea94e787.chunk.css.map": "/MarvelApp/static/css/561.ea94e787.chunk.css.map",
+    "561.b68bf1b5.chunk.js.map": "/MarvelApp/static/js/561.b68bf1b5.chunk.js.map",
+    "108.c7ad1845.chunk.css.map": "/MarvelApp/static/css/108.c7ad1845.chunk.css.map",
+    "108.215caf6f.chunk.js.map": "/MarvelApp/static/js/108.215caf6f.chunk.js.map",
+    "607.d8aba8fd.chunk.js.map": "/MarvelApp/static/js/607.d8aba8fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d405f783.css",
+    "static/js/main.6557da84.js"
+  ]
+}
